@@ -7,3 +7,12 @@ Before moving to code flow of testing part, First we need to understand -> frame
 
 
 ![UnitTextCasePDF 002](https://github.com/user-attachments/assets/5e829805-ddb7-412c-a7c2-b55599cdf0b7)
+
+
+# Below URL for finding full source code & details
+
+# Youtube url: https://www.youtube.com/watch?v=XPn6HOVOuDA
+
+# Linkedin Profile: https://www.linkedin.com/in/sumit-chahar-2956a513b/
+
+# Medium link: https://medium.com/@sumitchahar96/mvvm-architecture-list-ui-unittextcase-for-bothpart-logic-or-ui-swift-ui-2ce426b6b70f
