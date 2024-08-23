@@ -9,7 +9,7 @@ Before moving to code flow of testing part, First we need to understand -> frame
 ![UnitTextCasePDF 002](https://github.com/user-attachments/assets/5e829805-ddb7-412c-a7c2-b55599cdf0b7)
 
 
-# Below URL for finding full source code & details
+# Below URL for finding full details - (Text or Video form)
 
 # Youtube url: https://www.youtube.com/watch?v=XPn6HOVOuDA
 
